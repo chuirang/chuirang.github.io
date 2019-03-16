@@ -1,5 +1,5 @@
 # Site settings
-title: Another Blog
+title: Wonkilee's Blog
 url: "http://chuirang.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
@@ -10,7 +10,7 @@ description: >
 email: chuirang@naver.com
 author: wonkilee
 avatar: ""
-profile: wonkilee.
+profile: wonkilee / infrastructure architect
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
